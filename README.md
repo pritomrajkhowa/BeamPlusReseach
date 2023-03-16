@@ -283,14 +283,14 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## Related Repositories
 
-- [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
+- [awesome-fashion-ai](https://github.com/pritomrajkhowa/BeamPlusReseach/blob/main/README1.md)
 - [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
 - [Clothes-3D](https://github.com/lzhbrian/Clothes-3D)
-- [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human)
-- [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
-- [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
-- [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
-- [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
+- [Awesome 3D Human](https://github.com/pritomrajkhowa/BeamPlusReseach/blob/main/README2.md)
+- [Awesome 3D reconstruction list](https://github.com/pritomrajkhowa/BeamPlusReseach/blob/main/README3.md)
+- [Human Body Reconstruction](https://github.com/pritomrajkhowa/BeamPlusReseach/blob/main/README4.md)
+- [Awesome 3D Body Papers](https://github.com/pritomrajkhowa/BeamPlusReseach/blob/main/README5.md)
+- [Awesome pose transfer](https://github.com/pritomrajkhowa/BeamPlusReseach/blob/main/README6.md)
 
 
 #### Pull requests are welcome!
